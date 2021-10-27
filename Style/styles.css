@@ -1,0 +1,38 @@
+h1 {
+	font-weight: 400;
+}
+
+.melyna {
+	background-color: rgb(26, 26, 124);
+	color: cornsilk;
+}
+
+table {
+	border-collapse: collapse;
+	width: 100%;
+	max-width: 1200px;
+	margin-top: ;
+}
+
+td,
+th {
+	border: 1px solid red;
+}
+footer {
+	color: cornsilk;
+	background-color: rgb(235, 213, 22);
+	font-weight: 700;
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+nav {
+	color: cornsilk;
+	background-color: rgb(235, 213, 22);
+	text-align: right;
+}
+h6 {
+	color: cornsilk;
+	font-weight: bold;
+}
